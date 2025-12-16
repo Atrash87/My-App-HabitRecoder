@@ -2,7 +2,7 @@
 🧠**Habit Recoder** is your personal command center for building lasting habits. It’s more than a tracker—it's a daily ritual space that combines habit logging, progress analytics, and reflective journaling in one beautiful, native desktop application.
 
 
-# Habit Recoder
+# HabitRecoder
 
 **Build better habits. Code your consistency.**
 
@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)](#)
 
-**Habit Re:coder** is your personal command center for building lasting habits. It’s more than a tracker—it's a daily ritual space that combines habit logging, progress analytics, and reflective journaling in one beautiful, native desktop application.
+**Habit Recoder** is your personal command center for building lasting habits. It’s more than a tracker—it's a daily ritual space that combines habit logging, progress analytics, and reflective journaling in one beautiful, native desktop application.
 
 > **Your data stays private, on your machine.**
 
