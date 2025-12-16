@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ Why Habit Re:coder?
+## ✨ Why HabitRecoder?
 
 | Feature | Benefit |
 | :--- | :--- |
