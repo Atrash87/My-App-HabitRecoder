@@ -39,18 +39,7 @@
 ## 🚀 Quick Start
 
 ### Option 1: Download & Run (Easiest)
-1.  Go to the [Releases](../../releases) page.
+1.  Go to the [Releases](https://atrash87.github.io/landing-page/) page.
 2.  Download the latest `HabitsRecoder.exe` for Windows.
 3.  Double-click to run. No installation needed.
 
-### Option 2: Run from Source
-```bash
-# 1. Clone the repository
-git clone https://github.com/yourusername/habit-recoder.git
-cd habit-recoder
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the application
-python desktop_app.py
